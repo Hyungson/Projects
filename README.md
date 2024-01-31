@@ -2,6 +2,14 @@
 
 <h3 align="center"> D&A Conference Project  (2023-08 ~ 2023-11) </h3>
 
+***
+### 기여 내용
+- 3D Task 관련 연구 리서치 및 모델 인퍼런스
+- SAM(Segment Anything)을 활용한 신발 2D 이미지 Segmentation 및 마스킹 추출, 라벨링 
+- Instant-NGP (Nerf기반) 을 활용한 3D Reconstruction 인퍼런스 (최종 프로젝트에 사용되진 않음) [Link](https://github.com/Hyungson/instant-ngp)
+- gradio를 활용한 전체 프로세스 GUI 배포
+
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
